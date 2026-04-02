@@ -2,7 +2,7 @@
 
 Implementation of the required solution using .NET 9 and SQL Server.
 
-To run the soluction using Docker, run the command "docker compose up --build".
+To execute the solution using Docker, run the command "docker compose up --build".
 
 You can use Swagger through the url http://localhost:8080/swagger.
 
